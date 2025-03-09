@@ -1,5 +1,3 @@
-# Tony_GoPostal
-Tony_GoPostal
 	['gopostal_package'] = {
 		label = 'package',
 		stack = true
