@@ -1,0 +1,17 @@
+{
+    "A1": "Pick up Package",
+    "A2": "Return Vehicle",
+    "A3": "Collect Package",
+    "A4": "Open Delivery Locker",
+    "A5": "Check and Place Items",
+    "A6": "Post",
+    "A7": "Get out and pick up the package on the ground, and put it inside the locker.",
+    "A8": "Please complete the task before coming back.",
+    "A9": "Package Locker",
+    "A10": "Return the vehicle to end the job.",
+    "A11": "Post",
+    "A12": "Place Items",
+    "A13": "Not enough packages.",
+    "A14": "Not enough packages, please return the vehicle.",
+    "A15": "Knock" 
+}
